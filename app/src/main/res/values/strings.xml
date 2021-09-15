@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="greeting">The GAME</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="times2">Double</string>
+    <string name="restart">Restart</string>
+    <string name="display">Numbers will appear here</string>
+</resources>
